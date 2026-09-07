@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2562-find-the-array-concatenation-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3884-first-matching-character-from-both-ends) |
 ## Math
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-clear-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3174-clear-digits) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3856-trim-trailing-vowels](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3884-first-matching-character-from-both-ends) |
 | [3941-password-strength](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3941-password-strength) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
