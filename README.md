@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3663-find-the-least-frequent-digit](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2947-count-beautiful-substrings-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Trie
@@ -413,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2947-count-beautiful-substrings-i) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
