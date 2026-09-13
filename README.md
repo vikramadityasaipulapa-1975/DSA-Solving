@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Counting
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Bucket Sort
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Stack
 |  |
