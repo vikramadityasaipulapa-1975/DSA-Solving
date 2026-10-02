@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0128-longest-consecutive-sequence) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
 | [1009-complement-of-base-10-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -444,4 +446,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
