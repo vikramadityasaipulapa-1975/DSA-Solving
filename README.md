@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
