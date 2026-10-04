@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
 | [0492-construct-the-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0492-construct-the-rectangle) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0198-house-robber) |
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0090-subsets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
