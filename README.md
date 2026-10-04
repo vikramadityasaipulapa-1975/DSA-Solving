@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
+| [0063-unique-paths-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Rolling Hash
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0198-house-robber) |
