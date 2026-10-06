@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0657-robot-return-to-origin](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
