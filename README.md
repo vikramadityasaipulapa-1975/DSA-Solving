@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0141-linked-list-cycle) |
+| [0237-delete-node-in-a-linked-list](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0328-odd-even-linked-list) |
 ## Enumeration
 |  |
