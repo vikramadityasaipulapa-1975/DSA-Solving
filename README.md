@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3904-smallest-stable-index-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3904-smallest-stable-index-ii) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Binary Search
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3731-find-missing-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3731-find-missing-elements) |
+| [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Hash Table
 |  |
