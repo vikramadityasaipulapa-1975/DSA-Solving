@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0085-maximal-rectangle) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 ## Rolling Hash
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0198-house-robber) |
@@ -392,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
