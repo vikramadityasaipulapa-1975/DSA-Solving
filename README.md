@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0704-binary-search) |
 | [0930-binary-subarrays-with-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1004-max-consecutive-ones-iii) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0085-maximal-rectangle) |
+| [0931-minimum-falling-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Rolling Hash
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0213-house-robber-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
