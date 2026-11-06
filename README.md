@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3904-smallest-stable-index-ii) |
+| [3912-valid-elements-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3912-valid-elements-in-an-array) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Binary Search
