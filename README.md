@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3912-valid-elements-in-an-array) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4056-number-of-intersecting-interval-pairs-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4056-number-of-intersecting-interval-pairs-i) |
 ## Binary Search
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 ## Sliding Window
 |  |
 | ------- |
