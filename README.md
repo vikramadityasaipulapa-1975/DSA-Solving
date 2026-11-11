@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0292-nim-game) |
+| [0458-poor-pigs](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0458-poor-pigs) |
 | [0492-construct-the-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0492-construct-the-rectangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1248-count-number-of-nice-subarrays) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0213-house-robber-ii) |
+| [0458-poor-pigs](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0458-poor-pigs) |
 | [0931-minimum-falling-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3693-climbing-stairs-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3693-climbing-stairs-ii) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0458-poor-pigs) |
 ## Design
 |  |
 | ------- |
