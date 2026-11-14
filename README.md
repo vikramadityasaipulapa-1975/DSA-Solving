@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1668-maximum-repeating-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1668-maximum-repeating-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0213-house-robber-ii) |
 | [0458-poor-pigs](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0458-poor-pigs) |
 | [0931-minimum-falling-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0931-minimum-falling-path-sum) |
+| [1668-maximum-repeating-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1668-maximum-repeating-substring) |
 | [3638-maximum-balanced-shipments](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3638-maximum-balanced-shipments) |
 | [3693-climbing-stairs-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -546,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0141-linked-list-cycle) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
