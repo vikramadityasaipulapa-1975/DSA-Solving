@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3364-minimum-positive-sum-subarray) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2574-left-and-right-sum-differences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2947-count-beautiful-substrings-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3364-minimum-positive-sum-subarray) |
 | [3788-maximum-score-of-a-split](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3788-maximum-score-of-a-split) |
 | [3904-smallest-stable-index-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
