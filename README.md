@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2540-minimum-common-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2540-minimum-common-value) |
 | [2562-find-the-array-concatenation-value](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2562-find-the-array-concatenation-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2574-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2829-determine-the-minimum-sum-of-a-k-avoiding-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2829-determine-the-minimum-sum-of-a-k-avoiding-array) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
