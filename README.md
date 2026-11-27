@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0806-number-of-lines-to-write-string) |
+| [0832-flipping-an-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0832-flipping-an-image) |
 | [0930-binary-subarrays-with-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0658-find-k-closest-elements) |
+| [0832-flipping-an-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0942-di-string-match) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0090-subsets-ii) |
 | [0389-find-the-difference](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1009-complement-of-base-10-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0832-flipping-an-image) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0085-maximal-rectangle) |
+| [0832-flipping-an-image](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/0931-minimum-falling-path-sum) |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3462-maximum-sum-with-at-most-k-elements) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/pvasB0-baymax/DSA-Solving/tree/master/3882-minimum-xor-path-in-a-grid) |
